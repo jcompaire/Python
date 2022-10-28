@@ -1,5 +1,5 @@
 #   JCOMPAIRE_LICENSE License statement and permissions for
-#                                                 jcompaire/Python repository.
+#                     jcompaire/Python repository.
 #   
 #   Copyright (C) 2022 J.C. Compaire
 #   
