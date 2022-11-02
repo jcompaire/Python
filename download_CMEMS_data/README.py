@@ -62,4 +62,6 @@
 # share the script with colleagues.
 #
 ![](images/Fig_sst_ssh_chl.png)
+images/Fig_sst_ssh_chl.png
+![] https://github.com/jcompaire/Python/blob/224a4b33cc503f205545aa9edf01b45ba2ae427d/images/Fig_sst_ssh_chl.png
 ![alt text](https://github.com/jcompaire/Python/blob/main/images/Fig_sst_ssh_chl.png?raw=true)
