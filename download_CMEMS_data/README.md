@@ -19,12 +19,12 @@ I can share the script with colleagues or even with journal referees (ensuring o
 1. Put the script "cmems_motu.py" in your working directory (this script was created by Copernicus Marine User Support). https://help.marine.copernicus.eu/en/articles/5211063-how-to-use-the-motuclient-within-python-environment-e-g-spyder
    (I have modified two lines (38 and 44) to allow us to save the data in the desired path).
 2. Install the module PWInput.
-3. Check some of the attached scripts, and customize them according to your preference.
+3. Check some of the attached scripts (get_cmems_sst.py, get_cmems_ssh.py, get_cmems_chl.py), and customize them according to your preference.
 
 In these examples, you will see how to download some data on:
-- 'sst': sea surface temperature (get_cmems_sst.py)
-- 'ssh': sea surface height (get_cmems_ssh.py)
-- 'chl': chlorophyll-a (get_cmems_chl.py)
+- 'sst': sea surface temperature **(get_cmems_sst.py)**
+- 'ssh': sea surface height **(get_cmems_ssh.py)**
+- 'chl': chlorophyll-a **(get_cmems_chl.py)**
 
 for the area of the Rio de la Plata estuary (southern Atlantic Ocean) using the Spyder environment.
 
