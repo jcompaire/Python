@@ -5,7 +5,7 @@ Created on Mon Oct 31 2022
 @author: Jesus C. Compaire
 @institution: Centro de Investigaciones del Mar y la Atmósfera (CIMA)
 @position: Postdoctoral researcher
-@e-mail:jesus.canocompaire@cima.fcen.uba.ar
+@e-mail:jesus.canocompaire@uca.es
 """
 # %% Importing packages ####
 import os
