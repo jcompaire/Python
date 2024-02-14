@@ -1,5 +1,9 @@
 ## A Python script to exemplify how to download CMEMS data via OpenDAP as netCDF files within the Spyder environment.
 
+### ⚠️ The current services MOTU, OPeNDAP, ERDDAP, FTP and WMS are deprecated and will be fully replaced by the new [Copernicus Marine Date Store services](https://marine.copernicus.eu/news/introducing-new-copernicus-marine-data-store) in March 2024. The [Copernicus Marine Toolbox](https://help.marine.copernicus.eu/en/collections/4060068-copernicus-marine-toolbox) is available to ease the transition. For existing users, read more in [Switching from current to new services](https://help.marine.copernicus.eu/en/articles/8612591-switching-from-current-to-new-services). The below content being deprecated, it will be unuseful in coming months.
+
+--
+
 Currently, there are 69 ocean-related available variables to download from CMEMS ( https://resources.marine.copernicus.eu/products ). You will find different "branches" of the "same variable" depending on the data source, the temporal resolution and coverage or even the processing state of data, among others.
 
 ### To download CMEMS data you have to:
