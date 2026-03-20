@@ -9,7 +9,7 @@ We investigated the broadnose sevengill shark [*_Notorynchus cepedianus_*](https
 
 - The dataset will be available from [PANGAEA](https://www.pangaea.de/) repository.
 
-- To get a complete description of each variable and performed analyses take a look at the [preprint](https://doi.org/10.2139/ssrn.6401895).
+- To get a complete description of each variable and performed analyses take a look at the [preprint](https://doi.org/10.2139/ssrn.6401895) or the the file named "manuscript.pdf" hosted [here](https://github.com/jcompaire/Python/blob/main/FishGrowth/Ncepedianus/manuscript.pdf).
 
 ### Authors
 

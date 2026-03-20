@@ -7,7 +7,7 @@ This script will allow you to replicate the statistical analyses performed in th
 
 We investigated the broadnose sevengill shark [*_Notorynchus cepedianus_*](https://www.fishbase.se/summary/Notorynchus-cepedianus) population structure and growth rates in coastal waters of the Southwestern Atlantic (~34.6ºS to ~49.4ºS). Our findings reveal distinct regional variation in size structure across the latitudinal range.
 
-- The dataset will be available from [PANGAEA](https://www.pangaea.de/) repository.
+- The dataset will be available from [PANGAEA](https://www.pangaea.de/) repository or the the file named "manuscript.pdf" hosted [here](https://github.com/jcompaire/Python/blob/main/FishGrowth/Ncepedianus/manuscript.pdf).
 
 - To get a complete description of each variable and performed analyses take a look at the [preprint](https://doi.org/10.2139/ssrn.6401895).
 
