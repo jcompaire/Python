@@ -1,0 +1,17 @@
+# Python - System and cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.spyderproject
+.spyproject
+
+#  Heavy data files
+*.nc
+*.RData
+*.Rhistory
+
+# System files (Debian/Linux)
+.DS_Store
+.directory
+.vscode/
