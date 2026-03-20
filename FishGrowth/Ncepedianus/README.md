@@ -1,15 +1,17 @@
 ## A Python script for generating figures about population structure of *Notorynchus cepedianus* and their growth curves
 
-This script will allow you to replicate the statistical analyses performed in the manuscript: "***The broadnose sevengill shark, _Notorynchus cepedianus_, an apex predator: population structure and growth estimates***". Additionally, the Python code can be used for generating figures 2 and 3 about the length frequency distribution of the populations and the growth curves presented in the [manuscript](https://doi.org/XXX).
+This script will allow you to replicate the statistical analyses performed in the manuscript: "***The broadnose sevengill shark, _Notorynchus cepedianus_, an apex predator: population structure and growth estimates***". Additionally, the Python code can be used for generating figures 2 and 3 about the length frequency distribution of the populations and the growth curves presented in the this work.
+# [manuscript](https://doi.org/XXX).
 
 
 ### Overwiew
 
 We investigated the broadnose sevengill shark [*_Notorynchus cepedianus_*](https://www.fishbase.se/summary/Notorynchus-cepedianus) population structure and growth rates in coastal waters of the Southwestern Atlantic (~34.6ºS to ~49.4ºS). Our findings reveal distinct regional variation in size structure across the latitudinal range.
 
-- The dataset is available from [PANGAEA](https://www.pangaea.de/) repository and it can be accessed from [here](https://doi.pangaea.de/XXX).
+- The dataset will be available from [PANGAEA](https://www.pangaea.de/) repository 
+# and it can be accessed from [here](https://doi.pangaea.de/XXX).
 
-- To get a complete description of each variable and performed analyses take a look at the [manuscript](https://doi.org/XXX).
+#- To get a complete description of each variable and performed analyses take a look at the [manuscript](https://doi.org/XXX).
 
 ### Authors
 
