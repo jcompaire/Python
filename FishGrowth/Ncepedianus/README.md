@@ -27,7 +27,7 @@ estimates. Fish and Fisheries, XX(X), XXX. https://doi.org/XXXXX
 ```
 
 # _Notorynchus cepedianus_
-[<img align="left" width="50%" src="https://www.fishbase.se/photos/PicturesSummary.php?ID=2531&what=species&pic=Nocep_u6.jpg"/>](https://https://www.fishbase.se/summary/Notorynchus-cepedianus)
+[<img align="left" width="50%" src="https://https://www.fishbase.se/images/species/Nocep_u6.jpg"/>](https://https://www.fishbase.se/summary/Notorynchus-cepedianus)
 
 Credit: 
 
