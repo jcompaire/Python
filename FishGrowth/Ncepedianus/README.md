@@ -30,7 +30,7 @@ estimates. Fish and Fisheries, XX(X), XXX. https://doi.org/XXXXX
 ```
 
 # _Notorynchus cepedianus_
-<img align="center" width="50%" src="https://www.proyectoarrecife.com.ar/sites/default/files/2021-01/29.359_Irigoyen%20Alejo_20160926_Alejo%20Irigoyen.jpg"/>
+<img align="left" width="50%" src="https://www.proyectoarrecife.com.ar/sites/default/files/2021-01/29.359_Irigoyen%20Alejo_20160926_Alejo%20Irigoyen.jpg"/>
 
 Credit: 
 

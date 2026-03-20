@@ -16,7 +16,6 @@ We investigated the broadnose sevengill shark [*_Notorynchus cepedianus_*](https
 This work was conducted by [Jesus C. Compaire](https://www.researchgate.net/profile/Jesus-Compaire), [Gastón A. Trobbiani](https://www.researchgate.net/profile/Gaston-Trobbiani), Federico Más, Juan Martín Cuevas, Carolina Pantano, Martín Laporta, Lucas Albornoz, Cristian Lagger,  and [Alejo J. Irigoyen](https://www.researchgate.net/profile/Alejo-Irigoyen). Jesus C. Compaire wrote and updates the Python script.
 
 This work was supported in part by [Proyecto Arrecife](https://www.proyectoarrecife.com.ar/es/pez/gatopardo).
-<img align="center" width="10%" src="https://www.proyectoarrecife.com.ar/sites/default/files/logo_proyecto_3.png"/>
 
 
 ## References
@@ -31,8 +30,8 @@ estimates. Fish and Fisheries, XX(X), XXX. https://doi.org/XXXXX
 ```
 
 # _Notorynchus cepedianus_
-[<img align="left" width="50%" src="https://www.fishbase.se/images/species/Nocep_u6.jpg"/>](https://https://www.fishbase.se/summary/Notorynchus-cepedianus)
+<img align="left" width="50%" src="https://www.proyectoarrecife.com.ar/sites/default/files/2021-01/29.359_Irigoyen%20Alejo_20160926_Alejo%20Irigoyen.jpg"/>
 
 Credit: 
 
-<img width="10%" src="https://github.com/ropensci/rfishbase/blob/master/man/figures/logo.svg">
+<img align="center" width="10%" src="https://www.proyectoarrecife.com.ar/sites/default/files/logo_proyecto_3.png"/>
