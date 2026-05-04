@@ -4,4 +4,6 @@ A Python's toolbox to deal with big data processing and statistical analysis in 
 ## Python Projects
 
 - [download CMEMS data](https://github.com/jcompaire/download_CMEMS_data)
+- [Notorynchus cepedianus growth analyses](https://github.com/jcompaire/FishGrowth_Ncepedianus)
+
 
